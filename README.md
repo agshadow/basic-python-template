@@ -1,9 +1,4 @@
-# HowToCodeaAITradingBotNicholasRenotte
-
-Youtube tutorial
-How to Code a AI Trading bot (so you can make $$$)
-https://www.youtube.com/watch?v=c9OjEThuJjY
-
+#basic-python-template
 
 create virtual environment
 python -m venv venv
